@@ -4,7 +4,7 @@ import Navbar from "../components/ui/Navbar";
 
 const Layout = ({ children }) => {
   return (
-    <div className="bg-[#F9B800] flex flex-col min-h-screen w-full">
+    <div className="bg-yellow-100 flex flex-col min-h-screen w-full">
       <div className="h-32 lg:h-52">
         <Navbar />
       </div>

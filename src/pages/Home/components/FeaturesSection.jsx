@@ -82,7 +82,7 @@ const FeaturesSection = () => {
           style={{
             backgroundColor: "#262626",
             width: window.innerWidth < 1024 ? "150vw" : "120vw", // Wider on mobile
-            height: window.innerWidth < 1024 ? "150vh" : "150vh", // Taller on mobile
+            height: window.innerWidth < 1024 ? "150vh" : "160vh", // Taller on mobile
             marginLeft: window.innerWidth < 1024 ? "-25vw" : "-10vw", // More negative margin on mobile
           }}
         >

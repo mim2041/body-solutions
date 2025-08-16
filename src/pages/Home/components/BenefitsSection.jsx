@@ -36,7 +36,7 @@ const BenefitsSection = () => {
                 {benefits.map((benefit, index) => (
                   <div
                     key={index}
-                    className="flex items-center gap-4 bg-white py-4 px-6 rounded-full"
+                    className="flex items-center gap-2 bg-white py-4 px-6 rounded-full"
                   >
                     <img src={check} alt="Check Icon" className="" />
                     <span className="text-gray-800 font-semibold text-[20px]">

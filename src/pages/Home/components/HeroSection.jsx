@@ -15,7 +15,7 @@ const HeroSection = () => {
 
   return (
     <div>
-      <div className="flex flex-col-reverse lg:flex-row items-center justify-between">
+      <div className="flex flex-col-reverse lg:flex-row items-center justify-between mb-16 max-w-[1600px] mx-auto">
         <div>
           <h2 className="text-[16px] lg:text-[30px] font-bold text-[#F9B800]">
             risus praesent vulputate.

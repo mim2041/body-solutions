@@ -5,7 +5,7 @@ import FlagDropdown from "../common/FlagDropdown";
 const Navbar = () => {
   return (
     <div className="px-2 md:px-20 py-8 lg:py-12  w-full mx-auto z-50 fixed top-0 left-0 right-0">
-      <div className="flex items-center justify-between bg-white w-full rounded-full py-2 lg:py-4 px-6 border">
+      <div className="flex items-center justify-between bg-white w-full rounded-full py-2  px-6 border">
         <div className="hidden md:block"></div>
         <div>
           <img

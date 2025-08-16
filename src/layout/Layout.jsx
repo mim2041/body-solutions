@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
       <div className="h-32 lg:h-52">
         <Navbar />
       </div>
-      <main className="flex-1 container mx-auto px-4 py-8">{children}</main>
+      <main>{children}</main>
     </div>
   );
 };
